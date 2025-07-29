@@ -1,0 +1,17 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://sc104sc.dev.local",
+      "authority": "https://sc104identityserver.dev.local",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkNCNjM4MUI1RDc4ODVBMDk2NTdGNUMyNjYxRTE5OUZDQzYxQzFEMzdSUzI1NiIsIng1dCI6InkyT0J0ZGVJV2dsbGYxd21ZZUdaX01ZY0hUYyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL3NjMTA0aWRlbnRpdHlzZXJ2ZXIuZGV2LmxvY2FsIiwibmJmIjoxNzUzNzg0Nzk3LCJpYXQiOjE3NTM3ODQ3OTcsImV4cCI6MTc1Mzc4ODM5NywiYXVkIjpbInNpdGVjb3JlLnByb2ZpbGUuYXBpIiwiaHR0cHM6Ly9zYzEwNGlkZW50aXR5c2VydmVyLmRldi5sb2NhbC9yZXNvdXJjZXMiXSwic2NvcGUiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsicHdkIl0sImNsaWVudF9pZCI6IkRldmljZSIsInN1YiI6IjkzMTc5NjJlMGMyMDQ5MjJhMGUwY2E5YjFmZDYwOTU3IiwiYXV0aF90aW1lIjoxNzUzNzU5NDk1LCJpZHAiOiJsb2NhbCIsIm5hbWUiOiJzaXRlY29yZVxcQWRtaW4iLCJlbWFpbCI6IiIsImh0dHA6Ly93d3cuc2l0ZWNvcmUubmV0L2lkZW50aXR5L2NsYWltcy9pc0FkbWluIjoiVHJ1ZSIsImp0aSI6IjMwOEZFQTREMURGREZCRkE1NDVDQTE5Qjc1NDc2MjU3In0.fkQWtMxPRoVXDIuz0H3BNuP1MW0ZAiHtnhZ2hgN1R2GDZ_RMOx02NarzBpXZyP9cJ5bOTNi_bLMP2ACRVE1MK9-xaOOtold47b_st9Yew36N9UqGCg55txamGMYSVQibnzpyL6hy74J6k7vk4irBRDtVzECQ4YR2akK1EnEy9Fd3L4jPAGZdoSN6zbG_gEitUsxwT1s3pgXOPStvgskbdytWlIabBroU3cGQY8VxQLnfUEmp4c4TI0cUlw2HuXu30nKHQSQgxf2eU7JMC3CgYZT_XV8P8NVHColDRwnaRdG3sX1w0m8D1FszPyiTiNDySojz3lZgK4MDvEKI6xoqIg",
+      "refreshToken": "6B3051A73B7351E97D88E0B610BE16B93F20ECD05FDAADBF21C58B488B836FDD-1",
+      "expiresIn": 3600,
+      "lastUpdated": "2025-07-29T10:26:37.5760449Z",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json",
+  "defaultEndpoint": "default"
+}

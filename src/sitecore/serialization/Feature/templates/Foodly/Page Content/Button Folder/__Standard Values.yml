@@ -1,0 +1,33 @@
+﻿---
+ID: "1b18e4bd-a4f3-4dee-a814-2cb73db6c184"
+Parent: "793080d3-f3b3-4e57-a38e-0c399d202d46"
+Template: "793080d3-f3b3-4e57-a38e-0c399d202d46"
+Path: /sitecore/templates/Feature/Foodly/Page Content/Button Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {79724624-9093-4ABD-B1E1-50E1F81C5C40}
+    {793080D3-F3B3-4E57-A38E-0C399D202D46}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e854a620-142d-427f-ba35-66e7deb7f1d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250723T120251Z

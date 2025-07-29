@@ -1,0 +1,40 @@
+﻿---
+ID: "930b22aa-371c-4c7d-93a2-ff33a58b6fce"
+Parent: "f3b8eaeb-74d4-48ef-8f12-bd106ada9b92"
+Template: "976c17ea-2a5a-46bb-a749-0dde296593f7"
+Path: /sitecore/content/Local Sites/Foodly/Home/events/Data/Event Address
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "14c04821-1eda-44c5-aa25-d771167ac9a6"
+      Hint: contactDetails
+      Value: "(123) 456-7890"
+    - ID: "187fea67-9dbf-4792-b0be-cbf82fbf6326"
+      Hint: address
+      Value: |
+        <p>123 Main St. </p>
+        <p>Anytown, USA</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250728T102323Z
+    - ID: "5ddd7998-c3f4-4d1a-a6fb-649fb05ba17a"
+      Hint: addressLabel
+      Value: Address
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "116d940b-1d06-4ae0-bef4-d9c97c6e9044"
+    - ID: "a6e83093-0412-4caf-a084-464c7c2eec2b"
+      Hint: contactUsLabel
+      Value: Contact Us
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250728T104039Z

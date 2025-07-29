@@ -1,0 +1,40 @@
+{
+  "namespace": "Foodly.Project.Templates",
+  "items": {
+    "includes": [
+      {
+        "name": "Project/templates/LocalSites",
+        "path": "/sitecore/templates/Project/Local Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Project/templates/Foodly",
+        "path": "/sitecore/templates/Project/Foodly",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Project/content/Foodly",
+        "path": "/sitecore/content/Local Sites/Foodly",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createOnly"
+          }
+        ]
+      }
+    ]
+  }
+}

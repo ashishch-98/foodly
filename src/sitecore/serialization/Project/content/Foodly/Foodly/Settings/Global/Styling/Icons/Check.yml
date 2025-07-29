@@ -1,0 +1,26 @@
+﻿---
+ID: "d774c03f-8245-4034-a0c9-1a8017a2fda1"
+Parent: "766eb924-c7bd-4b88-aeba-0844b59fb84c"
+Template: "97efe877-79e5-4ea4-83dd-92cf7ac7287d"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling/Icons/Check
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250723T125309Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c014f4be-e0d5-4bff-a861-f4f94e9f814e"
+    - ID: "9926e496-e2de-40a9-a10b-77f4a473e1ba"
+      Hint: name
+      Value: Check
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250723T125309Z

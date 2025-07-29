@@ -1,0 +1,34 @@
+﻿---
+ID: "f0dcf12f-d912-4fa6-a16c-978befc8f2ca"
+Parent: "f730c077-451b-4c03-84c4-7ae8f0faafc4"
+Template: "79724624-9093-4abd-b1e1-50e1f81c5c40"
+Path: /sitecore/content/Local Sites/Foodly/Home/Data/Page Level Button
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T061452Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91ecf02e-9efd-432f-b225-61177250d886"
+    - ID: "b1a19b85-b064-4dd9-a954-89504db85966"
+      Hint: buttonType
+      Value: "{863A3F5C-0B24-4707-A2B2-EA82EE311F7F}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T064107Z
+    - ID: "e64712dd-897d-4ce7-8152-25efa6412330"
+      Hint: buttonLink
+      Value: |
+        <link text="Page Level Button" anchor="" linktype="internal" class="" title=""  querystring="" id="{8E02AF01-7A1B-4125-BDBD-3EEB2EF9246D}" />

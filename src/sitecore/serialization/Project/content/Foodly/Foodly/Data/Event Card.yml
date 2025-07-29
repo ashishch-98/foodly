@@ -1,0 +1,31 @@
+﻿---
+ID: "b502d281-bc0d-448e-960f-5206d60a220b"
+Parent: "1ed46eaa-ce79-4004-8328-63a105a549af"
+Template: "ba7b1eda-943b-4570-bfee-e972cebc0477"
+Path: /sitecore/content/Local Sites/Foodly/Data/Event Card
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250726T191614Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d714eaa7-d9dd-4361-9760-69c7d2cbcaae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250726T191614Z

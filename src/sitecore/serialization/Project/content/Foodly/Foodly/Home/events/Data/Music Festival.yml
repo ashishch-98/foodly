@@ -1,0 +1,93 @@
+﻿---
+ID: "1fa5222d-1ddc-4394-85a2-215a1cb6612c"
+Parent: "f3b8eaeb-74d4-48ef-8f12-bd106ada9b92"
+Template: "8a4cd53c-8929-47f8-8223-eef33bbef4f3"
+Path: /sitecore/content/Local Sites/Foodly/Home/events/Data/Music Festival
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1a11a1c1-b3dc-4926-adfc-2ce4bb5ec4b5"
+      Hint: genre
+      Value: Rock
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250726T191657Z
+    - ID: "33466c8d-eaad-4c83-b27e-b2ad6163a5f6"
+      Hint: linkToBuyTickets
+      Value: |
+        <link text="Buy Tickets" linktype="external" url="https://in.bookmyshow.com/" anchor="" target="_blank" />
+    - ID: "44d757fc-3178-4d18-90ab-dd2716e79cdc"
+      Hint: description
+      Value: Experience an evening of live rock music.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b95d7c61-138c-4473-8c1c-94dde45b08b3"
+    - ID: "9a2d4d2a-d99c-43a2-a5c5-fbd46c537027"
+      Hint: heading
+      Value: Music Festival
+    - ID: "9fa12062-8843-49ce-89e3-c0f7bdaa6f0c"
+      Hint: date
+      Value: 20250730T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d2a5a440-4805-4637-a3e5-0ba3650d350e"
+      Hint: eventImage
+      Value: |
+        <image mediaid="{136480AB-163E-425C-A7A3-41B789500620}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250726T194729Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1a11a1c1-b3dc-4926-adfc-2ce4bb5ec4b5"
+      Hint: genre
+      Value: Roca
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250727T104940Z
+    - ID: "33466c8d-eaad-4c83-b27e-b2ad6163a5f6"
+      Hint: linkToBuyTickets
+      Value: |
+        <link text="Comprar Entradas" linktype="external" url="https://in.bookmyshow.com/" anchor="" target="" />
+    - ID: "44d757fc-3178-4d18-90ab-dd2716e79cdc"
+      Hint: description
+      Value: |
+        <br />
+        Experimente una noche de m&uacute;sica rock en vivo
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9853725-44f8-4795-bc82-f794e5adca35"
+    - ID: "9a2d4d2a-d99c-43a2-a5c5-fbd46c537027"
+      Hint: heading
+      Value: Festival de música
+    - ID: "9fa12062-8843-49ce-89e3-c0f7bdaa6f0c"
+      Hint: date
+      Value: 20250730T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d2a5a440-4805-4637-a3e5-0ba3650d350e"
+      Hint: eventImage
+      Value: |
+        <image mediaid="{136480AB-163E-425C-A7A3-41B789500620}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250727T105340Z

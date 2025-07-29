@@ -1,0 +1,40 @@
+{
+  "namespace": "Foodly.Foundation.Templates",
+  "items": {
+    "includes": [
+      {
+        "name": "Foundation/templates",
+        "path": "/sitecore/templates/Foundation/Foodly",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Foundation/renderings",
+        "path": "/sitecore/layout/Renderings/Foundation/Foodly",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Foundation/renderingHost",
+        "path": "/sitecore/system/Settings/Services/Rendering Hosts/Foodly",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      }
+    ]
+  }
+}

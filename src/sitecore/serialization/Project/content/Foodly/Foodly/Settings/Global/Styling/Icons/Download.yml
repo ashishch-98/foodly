@@ -1,0 +1,26 @@
+﻿---
+ID: "c67329ab-68a2-48ae-b655-ea1e61b6c033"
+Parent: "766eb924-c7bd-4b88-aeba-0844b59fb84c"
+Template: "97efe877-79e5-4ea4-83dd-92cf7ac7287d"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling/Icons/Download
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250723T125239Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5fe4a9d-c962-4004-9427-8185f9a3f540"
+    - ID: "9926e496-e2de-40a9-a10b-77f4a473e1ba"
+      Hint: name
+      Value: Download
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250723T125239Z
