@@ -1,0 +1,42 @@
+﻿---
+ID: "e367c9f2-2dbc-4813-a2c4-f71d4796ef2b"
+Parent: "cc488268-3a30-4fe2-aa56-bb3837d2e493"
+Template: "79724624-9093-4abd-b1e1-50e1f81c5c40"
+Path: "/sitecore/content/Local Sites/Foodly/Home/page-2/Data/Component Button"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fdf250a-4adb-42e4-8bdc-f6497819200d"
+      Hint: backgroundColor
+      Value: "{40A17EC6-555D-43E4-B729-1A97FF322741}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T072635Z
+    - ID: "3cfb7540-f862-44f5-a79a-4310a931b976"
+      Hint: labelColor
+      Value: "{6FA921DE-7F55-455F-A263-5FFDFFBD23C9}"
+    - ID: "48ea8dc8-4c47-4033-a700-c9410d4d9993"
+      Hint: icon
+      Value: "{D774C03F-8245-4034-A0C9-1A8017A2FDA1}"
+    - ID: "5e202148-0075-47b0-9cfa-cacee7118a65"
+      Hint: labelCase
+      Value: "{74489DCC-1A63-4FD3-878E-98407BB70A98}"
+    - ID: "75db18a4-2ba8-4f7e-87b0-7280a1b43754"
+      Hint: buttonShape
+      Value: "{51469AE3-F7CE-40EA-B738-E7B37A423267}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c748e4da-edb3-4218-896d-74fafb3404c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T072720Z
+    - ID: "e64712dd-897d-4ce7-8152-25efa6412330"
+      Hint: buttonLink
+      Value: |
+        <link text="Component Button" anchor="" linktype="internal" class="" title=""  querystring="" id="{8E02AF01-7A1B-4125-BDBD-3EEB2EF9246D}" />

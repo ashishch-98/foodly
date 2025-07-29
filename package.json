@@ -86,6 +86,10 @@
     "scaffold": "ts-node --project tsconfig.scripts.json scripts/scaffold-component/index.ts",
     "start:connected": "cross-env NODE_ENV=development npm-run-all --serial bootstrap --parallel next:dev start:watch-components",
     "start:production": "cross-env-shell NODE_ENV=production npm-run-all --serial bootstrap next:build next:start",
-    "start:watch-components": "ts-node --project tsconfig.scripts.json scripts/generate-component-builder/index.ts --watch"
+    "start:watch-components": "ts-node --project tsconfig.scripts.json scripts/generate-component-builder/index.ts --watch",
+    "sc:login": "cross-env-shell dotnet sitecore login --authority $SITECORE_ID_HOST --cm $SITECORE_API_HOST --allow-write true",
+    "sc:pull": "dotnet sitecore ser pull",
+    "sc:push": "dotnet sitecore ser push",
+    "init": "jss deploy config && npm install && npm run sc:login && npm run sc:push && npm run start:connected"
   }
 }

@@ -1,0 +1,64 @@
+﻿---
+ID: "b9d67742-3c99-4add-9d5e-f31d43fbd852"
+Parent: "f3b8eaeb-74d4-48ef-8f12-bd106ada9b92"
+Template: "6f4a634c-3a34-4434-9d99-0c9f24201fb4"
+Path: /sitecore/content/Local Sites/Foodly/Home/events/Data/Upcoming Events
+SharedFields:
+- ID: "aa4300ac-5e99-4b70-994e-4eca6943f83b"
+  Hint: eventId
+  Value: "0e5acef5-3225-4b0d-b242-37eca6aa5375"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250726T181825Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "927b0fe7-b411-4c3f-bed4-491ed8c85790"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250728T032730Z
+    - ID: "e47ae32c-05c4-4637-aa11-71df800fd228"
+      Hint: sectionTitle
+      Value: Upcoming Events
+    - ID: "e74c51cd-265e-414f-95a2-b56af9fc8888"
+      Hint: sectionSubTitle
+      Value: Dynamic Component
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250727T104833Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8b72ce4-7ce8-4c0e-a04d-8ba73741d9c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250728T070827Z
+    - ID: "e47ae32c-05c4-4637-aa11-71df800fd228"
+      Hint: sectionTitle
+      Value: 
+    - ID: "e74c51cd-265e-414f-95a2-b56af9fc8888"
+      Hint: sectionSubTitle
+      Value:  Componente dinámico

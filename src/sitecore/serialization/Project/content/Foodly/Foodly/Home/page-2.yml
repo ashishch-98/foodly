@@ -1,0 +1,55 @@
+﻿---
+ID: "75451df0-8f25-4726-8314-433442b1ab3d"
+Parent: "8e02af01-7a1b-4125-bdbd-3eeb2ef9246d"
+Template: "225af24f-ef59-49b1-b906-2dd25ad9bced"
+Path: "/sitecore/content/Local Sites/Foodly/Home/page-2"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A8E8CC9A-E739-4291-9A9B-5498039FDAAF}"
+          p:before="*"
+          s:ds="local:/Data/Site Level Button"
+          s:id="{C6C3D698-D18C-4598-B71E-6774518D89BF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{890B0459-5F0C-41E3-8A7A-6679078543EC}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Component Button"
+          s:id="{C6C3D698-D18C-4598-B71E-6774518D89BF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T063707Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "page-2"
+    - ID: "64e1541b-0ded-4000-b424-89793d258a35"
+      Hint: Title
+      Value: "page-2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcaeea8c-e89d-4bad-bbe5-85dad836e67f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T072639Z

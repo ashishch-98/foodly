@@ -1,0 +1,23 @@
+﻿---
+ID: "c60d36db-89d0-469a-be80-9b7c5abc95ce"
+Parent: "e8ae5dc3-b0cf-4724-8c35-b87d7d95a4e6"
+Template: "a7fc6528-10f1-4267-9cd3-0a61fa493f49"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250723T124330Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "048721d5-69b4-47a3-ba2a-ee60880fecd0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250723T124346Z

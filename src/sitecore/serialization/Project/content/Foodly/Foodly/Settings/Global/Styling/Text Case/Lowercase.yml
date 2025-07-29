@@ -1,0 +1,26 @@
+﻿---
+ID: "f2406d98-68c1-47ba-9e2b-1d106ffdf225"
+Parent: "edd46193-7b06-4358-95b0-26214f5cbb81"
+Template: "97efe877-79e5-4ea4-83dd-92cf7ac7287d"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling/Text Case/Lowercase
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250723T125201Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4c2c9e3-5917-449b-ac59-6788ee23c05b"
+    - ID: "9926e496-e2de-40a9-a10b-77f4a473e1ba"
+      Hint: name
+      Value: lowercase
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T050423Z

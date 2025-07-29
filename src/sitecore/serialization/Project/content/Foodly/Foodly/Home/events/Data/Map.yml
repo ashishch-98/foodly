@@ -1,0 +1,38 @@
+﻿---
+ID: "7ead32f6-70aa-4eee-8387-9c6e52031f28"
+Parent: "f3b8eaeb-74d4-48ef-8f12-bd106ada9b92"
+Template: "153c788c-3925-466e-a97f-4ec5c8dee774"
+Path: /sitecore/content/Local Sites/Foodly/Home/events/Data/Map
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "22730147-1ae9-48f5-931e-0a790f8217d6"
+      Hint: mapCenterLng
+      Value: 72.8258
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250728T092944Z
+    - ID: "568f71df-235a-48f5-b9ef-778a792664f4"
+      Hint: mapCenterLat
+      Value:  18.9398
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0ae4689-1e04-4ed1-b0f0-adb99d3147a4"
+    - ID: "aa8bde4a-452f-4a81-af61-4edd9909aa21"
+      Hint: markerPopupText
+      Value: Stadium
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250728T093240Z
+    - ID: "f02a1eeb-6425-45d7-a11e-cb4388aca7cb"
+      Hint: mapZoom
+      Value: 13

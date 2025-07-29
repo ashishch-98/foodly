@@ -1,0 +1,23 @@
+﻿---
+ID: "766eb924-c7bd-4b88-aeba-0844b59fb84c"
+Parent: "c60d36db-89d0-469a-be80-9b7c5abc95ce"
+Template: "a7fc6528-10f1-4267-9cd3-0a61fa493f49"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling/Icons
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250723T125232Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "533185ee-a32b-46bf-85f4-9b6455456e58"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250723T125232Z

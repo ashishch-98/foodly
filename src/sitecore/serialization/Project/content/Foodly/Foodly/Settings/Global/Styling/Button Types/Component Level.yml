@@ -1,0 +1,30 @@
+﻿---
+ID: "ef8845a7-8d46-4f55-92f2-51475d1d83cc"
+Parent: "24c0a0ec-cd43-415a-8a19-f047941449e7"
+Template: "97efe877-79e5-4ea4-83dd-92cf7ac7287d"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling/Button Types/Component Level
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T064018Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0dd7f721-99b7-456a-8554-5585784ddfa5"
+    - ID: "9926e496-e2de-40a9-a10b-77f4a473e1ba"
+      Hint: name
+      Value: Component Level
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T064022Z

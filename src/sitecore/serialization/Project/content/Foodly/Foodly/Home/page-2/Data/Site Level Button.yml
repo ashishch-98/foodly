@@ -1,0 +1,30 @@
+﻿---
+ID: "2c3bdf43-f8b3-4d99-9fcc-a67f140b31be"
+Parent: "cc488268-3a30-4fe2-aa56-bb3837d2e493"
+Template: "79724624-9093-4abd-b1e1-50e1f81c5c40"
+Path: "/sitecore/content/Local Sites/Foodly/Home/page-2/Data/Site Level Button"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250724T063811Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb1575d6-5554-41f7-b3ce-9aec8c7788b2"
+    - ID: "b1a19b85-b064-4dd9-a954-89504db85966"
+      Hint: buttonType
+      Value: "{0E25C755-5340-4E06-B549-59067F9DD11A}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T072748Z
+    - ID: "e64712dd-897d-4ce7-8152-25efa6412330"
+      Hint: buttonLink
+      Value: |
+        <link text="Site Button" anchor="" linktype="internal" class="" title=""  querystring="" id="{8E02AF01-7A1B-4125-BDBD-3EEB2EF9246D}" />

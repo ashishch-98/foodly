@@ -1,0 +1,26 @@
+﻿---
+ID: "c4b1679c-8a98-4050-addf-623dd76b0085"
+Parent: "174a5c19-4bbf-42b0-ab5a-d33096d261bb"
+Template: "97efe877-79e5-4ea4-83dd-92cf7ac7287d"
+Path: /sitecore/content/Local Sites/Foodly/Settings/Global/Styling/Text Colors/Bright Red
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250723T125443Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25e50d7e-a8bf-4ef6-96e7-8d607749ab5c"
+    - ID: "9926e496-e2de-40a9-a10b-77f4a473e1ba"
+      Hint: name
+      Value: "text-red-600"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250724T050451Z
