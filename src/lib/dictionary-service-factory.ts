@@ -20,7 +20,6 @@ export class DictionaryServiceFactory {
       ? new GraphQLDictionaryService({
           siteName,
           clientFactory,
-          rootItemId: '{8E02AF01-7A1B-4125-BDBD-3EEB2EF9246D}',
           /*
             The Dictionary Service needs a root item ID in order to fetch dictionary phrases for the current app. 
             When not provided, the service will attempt to figure out the root item for the current JSS App using GraphQL and app name.

@@ -1,1 +1,22 @@
 @import 'tailwindcss';
+
+.map-background-organic {
+    background-color: #a7d7ff;
+    /* Base water color */
+    background-image:
+        /* Layer 1: Subtle light green terrain */
+        linear-gradient(135deg, rgba(192, 224, 192, 0.5) 25%, transparent 25%),
+        linear-gradient(-135deg, rgba(192, 224, 192, 0.5) 25%, transparent 25%),
+        linear-gradient(45deg, rgba(192, 224, 192, 0.5) 25%, transparent 25%),
+        linear-gradient(-45deg, rgba(192, 224, 192, 0.5) 25%, transparent 25%),
+
+        /* Layer 2: Slightly darker green terrain */
+        linear-gradient(135deg, rgba(160, 208, 160, 0.6) 50%, transparent 50%),
+        linear-gradient(-135deg, rgba(160, 208, 160, 0.6) 50%, transparent 50%),
+
+        /* Layer 3: Main landmass base (more solid green) */
+        linear-gradient(to bottom right, #b0e0b0, #90c090);
+
+    background-size: 80px 80px, 80px 80px, 80px 80px, 80px 80px, 120px 120px, 120px 120px, cover;
+    background-position: 0 0, 40px 0, 0 40px, 40px 40px, 0 0, 60px 0, 0 0;
+}
