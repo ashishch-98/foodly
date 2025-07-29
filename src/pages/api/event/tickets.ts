@@ -1,14 +1,14 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
+import config from 'temp/config';
 
-const API_BASE_URL = process.env.TICKETS_API_BASE_URL || '';
-const API_KEY = process.env.TICKETS_API_KEY || '';
+const API_BASE_URL = process.env.TICKETS_API_BASE_URL;
+const API_KEY = process.env.TICKETS_API_KEY;
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   // CORS headers
-  res.setHeader('Access-Control-Allow-Origin', API_BASE_URL);
+  res.setHeader('Access-Control-Allow-Origin', config.sitecoreApiHost);
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, X-API-KEY');
-
   try {
     const { eventId } = req.query;
 
